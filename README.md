@@ -1,3 +1,7 @@
 # Python Masterclass
 
-I'm teaching my friend Matthew how to use Python. Over the following weeks, we will cover data types, creating input/output examples, conditions, loops, essential data structures and some other good practices as a Python developer. By the end of this, we will program Hangman on the terminal!
+Teaching my sister how to program. We will be covering Python, Java, and some 
+HTML + CSS. We will go over programming concepts such as data types, input / 
+output, conditions, loops, essential data structures and some other programming 
+practices. This is in preparation for her AP Computer Science class, but we will 
+do some cool projects together as well.
