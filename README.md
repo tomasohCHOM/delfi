@@ -1,5 +1,3 @@
-# Python Masterclass
-
 Teaching my sister how to program. We will be covering Python, Java, and some 
 HTML + CSS. We will go over programming concepts such as data types, input / 
 output, conditions, loops, essential data structures and some other programming 
